@@ -19,7 +19,7 @@ Hello! I'm Ivan Rocha
   <a href = "mailto:777ivanrocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ivan-rocha-21b56421a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-</div>
+</div><br>
   
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: 777ivanrocha@gmail.com
