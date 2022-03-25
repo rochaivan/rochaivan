@@ -21,5 +21,5 @@
    
 </div><br>
  
-  🌱 I’m currently learning TypeScript
+  🌱 I’m currently learning TypeScript <br>
   📫 How to reach me: 777ivanrocha@gmail.com
