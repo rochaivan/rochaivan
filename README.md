@@ -3,7 +3,7 @@
 <div align="center" style="display: inline_block">
   <a href="https://github.com/rochaivan">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=rochaivan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochaivan&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochaivan&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  <div style="display: inline_block"><br>
@@ -15,7 +15,7 @@
 </div>
 
  <div><br>
-   <h2>🔽 My links below 🔽</h2>
+   <h2></h2>
    <a href="https://www.linkedin.com/in/ivan-rocha-21b56421a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:777ivanrocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div><br>
